@@ -1,0 +1,5 @@
+{
+  "name": "NBA BetIQ Pro",
+  "description": "An advanced sports betting analytics dashboard for NBA totals and props, leveraging historical data visualization, statistical modeling (Pace, TS%), and AI-driven insights to maximize ROI.",
+  "requestFramePermissions": []
+}
