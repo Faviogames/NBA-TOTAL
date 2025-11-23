@@ -456,7 +456,7 @@ const BettingSimulator: React.FC<SimulatorProps> = ({ matches: defaultMatches, t
                                 className="w-full h-2 bg-slate-600 rounded-lg appearance-none cursor-pointer accent-accent"
                             />
                             <p className="text-xs text-textMuted mt-2">
-                                Bet OVER if combined team season avg FG% > {efficiencyThreshold}%.
+                                Bet OVER if combined team season avg FG% &gt; {efficiencyThreshold}%.
                             </p>
                         </div>
                     )}
